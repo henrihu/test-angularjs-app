@@ -43,6 +43,6 @@
 
 * Repo owner or admin
 ```
-   owner : info@zoomerrands.com
+   owner : 
 ```
 * Other community or team contact
